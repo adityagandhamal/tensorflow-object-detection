@@ -8,7 +8,7 @@
   
   - 1] Download and install [Anaconda](https://www.anaconda.com/)
   
-  - 2] [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) or Download the [tensorflow-object-detection-api](https://github.com/tensorflow/models) from Github.
+  - 2] [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) or Download the official repository of [tensorflow-object-detection-api](https://github.com/tensorflow/models) from Github.
   
   - 3] Clone or Download this repo.
   
