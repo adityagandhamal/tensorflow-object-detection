@@ -85,6 +85,6 @@
 [ExtremeNet](http://download.tensorflow.org/models/object_detection/tf2/20200711/extremenet.tar.gz)                                                                         | --         | --           | Boxes
 
 
-  - #### This project uses OpenCV to process the video frames and to return the final detections made on the video by the above mentioned model.
+  - #### This project uses OpenCV to process the video frames and to return the video on which the final detections are made by the above mentioned detection model.
   
   - #### In this repo, I have also provided a python script ``tf2od_nyc.py`` as an alternative for the Jupyter Notebook file. 
