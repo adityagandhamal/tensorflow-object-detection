@@ -4,7 +4,7 @@
 ![tensorflow_obj_detection](https://user-images.githubusercontent.com/61016383/94112562-415c3200-fe63-11ea-98e8-367a4b5c1637.gif)
 
 ## Here is what you can do to use this project:
-#### Make sure you have Python>=3.7 installed in your machine, if not then download and install it [here](https://www.python.org/)
+#### Make sure you have Python>=3.7 installed in your machine, if not then download and install it [here.](https://www.python.org/)
   
   - 1] Download and install [Anaconda](https://www.anaconda.com/)
   
