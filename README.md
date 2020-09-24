@@ -8,9 +8,9 @@
   
   - 1] Download and install [Anaconda](https://www.anaconda.com/)
   
-  - 2] [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) or Download the [tensorflow-object-detection-api](https://github.com/tensorflow/models) from Github
+  - 2] [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) or Download the [tensorflow-object-detection-api](https://github.com/tensorflow/models) from Github.
   
-  - 3] Clone or Download this repo
+  - 3] Clone or Download this repo.
   
   - 4] Open Anaconda Command Prompt and install the following packages for Windows:
       
@@ -28,17 +28,17 @@
 
          pip install tf_slim
 
-  - 5] Copy and Paste `protoc.exe` file from this repo to the path `models-master/research`
+  - 5] Copy and Paste `protoc.exe` file from this repo to the path `models-master/research`.
   
-  - 6] Open the Anaconda Command Prompt in `models-master\research` and copy and run the command written in `protoc_command.txt`
+  - 6] Open the Anaconda Command Prompt in `models-master\research` and copy and run the command written in `protoc_command.txt`.
   
-  - 7] Copy and Paste the file `tf2od_nyc.ipynb` and `tf2od_nyc.py` into `models-master\research` directory
+  - 7] Copy and Paste the file `tf2od_nyc.ipynb` and `tf2od_nyc.py` into `models-master\research` directory.
   
 #### For more information regarding installation and configuration of the api head on to <https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md>  
 
 
 ## About the project:
-  - #### The model used in this project is [``SSD_MOBILENET_V1``](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8.tar.gz) trained on the [``COCO 2017 DATASET``](http://cocodataset.org/)
+  - #### The model used in this project is [``SSD_MOBILENET_V1``](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8.tar.gz) trained on the [``COCO 2017 DATASET``](http://cocodataset.org/).
   
   These are the other models provided by TensorFlow for using its Object Detetcion API
   
