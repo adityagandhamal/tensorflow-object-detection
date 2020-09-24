@@ -11,7 +11,7 @@
   
   - Clone or Download this repo
   
-  -  Open Anaconda Command Prompt and install these packages for Windows:
+  -  Open Anaconda Command Prompt and install the following packages for Windows:
       
       `pip install tensorflow`,
       
