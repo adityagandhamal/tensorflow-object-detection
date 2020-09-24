@@ -11,7 +11,8 @@
   
   - Clone or Download this repo
   
-  -  Open Anaconda Command Prompt and install the these packages for Windows:
+  -  Open Anaconda Command Prompt and install these packages for Windows:
+      
       `pip install tensorflow`,
       
       `pip install opencv-python`,
@@ -86,4 +87,4 @@
 
   - #### This project uses OpenCV to process the video frames and to return the final detections made on the video by the above mentioned model.
   
-  - #### I have also provided a python script `tf2od_nyc.py` of the Jupyter Notebook file in this repo. 
+  - #### In this repo, I have also provided a python script ``tf2od_nyc.py`` as an alternative for the Jupyter Notebook file. 
