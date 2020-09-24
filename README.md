@@ -5,33 +5,33 @@
 
 ## Here is what you can do to use this project:
   
-  - Download and install [Anaconda](https://www.anaconda.com/)
+  - 1] Download and install [Anaconda](https://www.anaconda.com/)
   
-  - [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) or Download the [tensorflow-object-detection-api](https://github.com/tensorflow/models) from Github
+  - 2] [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) or Download the [tensorflow-object-detection-api](https://github.com/tensorflow/models) from Github
   
-  - Clone or Download this repo
+  - 3] Clone or Download this repo
   
-  -  Open Anaconda Command Prompt and install the following packages for Windows:
+  - 4] Open Anaconda Command Prompt and install the following packages for Windows:
       
-      `pip install tensorflow`,
-      
-      `pip install opencv-python`,
-      
-      `pip install Cython`,
-      
-      `pip install contextlib2`,
-      
-      `pip install pillow`,
-      
-      `pip install lxml`,
-      
-      `pip install tf_slim`
-   
-  - Copy and Paste `protoc.exe` file from this repo to the path `models-master/research`
+        `pip install tensorflow`,
+
+        `pip install opencv-python`,
+
+        `pip install Cython`,
+
+        `pip install contextlib2`,
+
+        `pip install pillow`,
+
+        `pip install lxml`,
+
+        `pip install tf_slim`
+
+  - 5] Copy and Paste `protoc.exe` file from this repo to the path `models-master/research`
   
-  - Open the Anaconda Command Prompt in `models-master\research` and copy and run the command written in `protoc_command.txt`
+  - 6] Open the Anaconda Command Prompt in `models-master\research` and copy and run the command written in `protoc_command.txt`
   
-  - Copy and Paste the file `tf2od_nyc.ipynb` into `models-master\research` directory
+  - 7] Copy and Paste the file `tf2od_nyc.ipynb` into `models-master\research` directory
   
 #### For more information regarding installation and configuration of the api head on to <https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md>  
 
