@@ -13,19 +13,19 @@
   
   - 4] Open Anaconda Command Prompt and install the following packages for Windows:
       
-        `pip install tensorflow`,
+         pip install tensorflow
 
-        `pip install opencv-python`,
+         pip install opencv-python
 
-        `pip install Cython`,
+         pip install Cython
 
-        `pip install contextlib2`,
+         pip install contextlib2
 
-        `pip install pillow`,
+         pip install pillow
 
-        `pip install lxml`,
+         pip install lxml
 
-        `pip install tf_slim`
+         pip install tf_slim
 
   - 5] Copy and Paste `protoc.exe` file from this repo to the path `models-master/research`
   
