@@ -1,4 +1,4 @@
-### This project uses Tensorflow's Object Detection api to detect objects in a video.
+### This project uses Tensorflow's Object Detection api to make realtime object detection in a video.
 
 #### Here's a snippet:
 ![tensorflow_obj_detection](https://user-images.githubusercontent.com/61016383/94112562-415c3200-fe63-11ea-98e8-367a4b5c1637.gif)
