@@ -34,7 +34,7 @@
   
   - 7] Copy and Paste the file `tf2od_nyc.ipynb` and `tf2od_nyc.py` into `models-master\research` directory.
   
-#### For more information regarding installation and configuration of the api head on to <https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md>  
+#### For more information regarding installation and configuration of the api head onto <https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md>  
 
 
 ## About the project:
